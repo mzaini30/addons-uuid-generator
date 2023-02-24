@@ -7,12 +7,12 @@
     "default_popup": "index.html"
   },
   "icons": {
-    "128": "icon.png"
+    "128": "./SystemUiconsCode.svg"
   },
   "browser_specific_settings": {
     "gecko": {
       "strict_min_version": "91.1.0",
-      "id": "87a68768-ccb0-4748-98b3-4163cf470400"
+      "id": "{87a68768-ccb0-4748-98b3-4163cf470400}"
     }
   }
 }
