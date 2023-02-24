@@ -5,15 +5,21 @@
   import "./tailwind.css";
 </script>
 
-<Router {routes} />
+<div class="latar w-full min-h-screen">
+  <Router {routes} />
+</div>
 
 <style>
+  .latar {
+    background: url("../latar.jpg") center center no-repeat fixed;
+    background-size: cover;
+  }
   :global(*) {
     word-wrap: break-word;
   }
   /* chrome extension */
-  /* :global(body) {
+  :global(body) {
     width: 350px;
     font-size: 16px;
-  } */
+  }
 </style>

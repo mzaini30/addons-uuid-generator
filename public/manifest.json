@@ -1,6 +1,6 @@
 {
-  "name": "Hello World",
-  "description": "This is for testing",
+  "name": "UUID Generator",
+  "description": "Tools yang akan menggenerate UUID yang siap kamu pakai",
   "version": "0.0.1",
   "manifest_version": 3,
   "action": {
@@ -12,7 +12,7 @@
   "browser_specific_settings": {
     "gecko": {
       "strict_min_version": "91.1.0",
-      "id": "uuid_masukkan_di_sini"
+      "id": "87a68768-ccb0-4748-98b3-4163cf470400"
     }
   }
 }
